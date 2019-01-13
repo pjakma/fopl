@@ -349,9 +349,7 @@ jurisdiction specified in a notice contained within the Original Software
 excluding such jurisdictions conflict-of-law provisions. Any litigation
 relating to this License shall be subject to the jurisdiction of the
 courts located in the jurisdiction and venue specified in a notice
-contained within the Original Software, with the losing party responsible
-for costs, including, without limitation, court costs and reasonable
-attorneys fees and expenses. The application of the
+contained within the Original Software. The application of the
 United Nations Convention on Contracts for the International Sale of Goods
 is expressly excluded. Any law or regulation which provides that the
 language of a contract shall be construed against the drafter shall not
