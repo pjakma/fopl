@@ -1,4 +1,4 @@
-COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.0 (CDDL-1.0)
+FULLY OPEN PUBLIC LICENSE Version 0.8 (FOPL-0.8)
 
 1. Definitions.
 
@@ -14,8 +14,8 @@ COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.0 (CDDL-1.0)
     Original Software with files containing Modifications, in each case
     including portions thereof.
 
-    1.4. Executable means the Covered Software in any
-    form other than Source Code.
+    1.4. Executable means the Covered Software in any form other than
+    Source Code.
 
     1.5. Initial Developer means the individual or entity that first makes
     Original Software available under this License.
@@ -32,15 +32,19 @@ COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.0 (CDDL-1.0)
     1.9. Modifications means the Source Code and Executable form
     of any of the following:
 
-        A. Any file that results from an addition to, deletion from or
-        modification of the contents of a file containing Original Software or
-        previous Modifications;
+        A.  Any work that results from an addition to, deletion from or
+        modification of the contents of a file containing Original Software
+        or previous Modifications;
 
-        B. Any new file that contains any part of the Original Software or
+        B.  Any new work that is based on, adapted from, or deriving of the
+        Original Software or previous Modifications;
+
+        C. Any new work that contains any part of the Original Software or
         previous Modification; or
 
-        C. Any new file that is contributed or otherwise made available under
-        the terms of this License.
+        D. Any new work that is contributed or otherwise made available under
+        the terms of this License, to the Original Software or previous
+        Modification.
 
     1.10. Original Software means the Source Code and Executable form of
     computer software code that is originally released under this License.
@@ -49,9 +53,11 @@ COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.0 (CDDL-1.0)
     acquired, including without limitation, method, process,
     and apparatus claims, in any patent Licensable by grantor.
 
-    1.12. Source Code means (a) the common form of computer software code
+    1.12.  Source Code means (a) the common form of computer software code
     in which modifications are made and (b) associated documentation
-    included in or with such code.
+    included in or with such code and (c) all associated interface
+    definition files, scripts and key material used to control the
+    compilation and installation of an executable.
 
     1.13. You (or Your) means an individual or a legal entity exercising
     rights under, and complying with all of the terms of, this License.
@@ -61,6 +67,21 @@ COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.0 (CDDL-1.0)
     to cause the direction or management of such entity, whether by
     contract or otherwise, or (b) ownership of more than fifty percent (50%)
     of the outstanding shares or beneficial ownership of such entity.
+
+    1.14.  Personal Use means use of Covered Software by an individual
+    solely for his or her personal, private and non-commercial purposes.  An
+    individual's use of Covered Software in his or her capacity as an
+    officer, employee, member, independent contractor or agent of a
+    corporation, business or organization (commercial or non-commercial)
+    does not qualify as Personal Use.
+
+    1.15.  Deploy means to use, sublicense or distribute Covered Software
+    other than for Your internal research and development (R&D) and/or
+    Personal Use, and includes without limitation, any and all internal use
+    or distribution of Covered Software within Your business or organization
+    except for R&D use and/or Personal Use, as well as direct or indirect
+    sublicensing or distribution of Covered Software by You to any third
+    party in any form or manner.
 
 2. License Grants.
 
@@ -131,15 +152,32 @@ COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.0 (CDDL-1.0)
 
     3.1. Availability of Source Code.
 
-    Any Covered Software that You distribute or otherwise make available in
-    Executable form must also be made available in Source Code form and that
-    Source Code form must be distributed only under the terms of this License.
-    You must include a copy of this License with every copy of the Source Code
-    form of the Covered Software You distribute or otherwise make available.
-    You must inform recipients of any such Covered Software in Executable form
-    as to how they can obtain such Covered Software in Source Code form in a
-    reasonable manner on or through a medium customarily
-    used for software exchange.
+    Any Covered Software that You Deploy or that You distribute or otherwise
+    make available must also be made available in Source Code form and that
+    Source Code form must be distributed only under the terms of this
+    License, and You must:
+
+        a) Include a copy of this License with every copy of the Source Code
+        form of the Covered Software You distribute or otherwise make
+        available.
+
+        b) Inform recipients of any such Covered Software in Executable form
+        as to how they can obtain such Covered Software in Source Code form
+        in a reasonable manner on or through a medium customarily used for
+        software exchange.
+
+        c)  Make the Source Code of all Your Deployed Modifications publicly
+        available under the terms of this License, for as long as you Deploy
+        the Covered Software or twenty-four (24) months from the date of
+        initial Deployment, whichever is longer; through a common and
+        customary form of distribution for source code (e.g.  download from
+        a web site as a 'tar' archive, or via source-control-mechanism such
+        as git or hg).
+
+        d) Include a prominent notification notice, in the code itself as
+        well as in related documentation, stating that Source Code of the
+        Covered Software is available under the terms of this License with
+        information on how and where to obtain such Source Code.
 
     3.2. Modifications.
 
@@ -150,7 +188,8 @@ COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.0 (CDDL-1.0)
 
     3.3. Required Notices.
 
-    You must include a notice in each of Your Modifications that identifies
+    You must include a notice in each file of Your Modifications that 
+    identifies
     You as the Contributor of the Modification. You may not remove or alter
     any copyright, patent or trademark notices contained within the
     Covered Software, or any notices of licensing or any descriptive text
@@ -198,9 +237,9 @@ COMMON DEVELOPMENT AND DISTRIBUTION LICENSE Version 1.0 (CDDL-1.0)
 
     4.1. New Versions.
 
-    Sun Microsystems, Inc. is the initial license steward and may publish
-    revised and/or new versions of this License from time to time.
-    Each version will be given a distinguishing version number. Except as
+    Paul Jakma, paul@jakma.org, is the initial license steward and may
+    publish revised and/or new versions of this License from time to time. 
+    Each version will be given a distinguishing version number.  Except as
     provided in Section 4.3, no one other than the license steward has the
     right to modify this License.
 
