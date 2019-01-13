@@ -1,0 +1,4 @@
+The Fully Open Public Licence has the following released versions:
+
+Version    Git Commit ID                              Comment
+0.8        dc92b9a3660f4af81e3c704525b33221e5895778   Initial version
