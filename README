@@ -1,0 +1,114 @@
+# Fully Open Public Licence
+
+This a licence, based on the CDDL-1.0, with modifications inspired by the
+Sybase/Watcom licence (which looks also to be MPL derived/inspired, as the
+CDDL was). It differs from the CDDL by:
+
+- Referring to 'work' as the unit of coverage, rather than 'file', so as to
+  be more like the GPL.
+- Using the concepts and wording from the Sybase/Watcom licence, to require
+  that source code be made publicly available not just in the case of
+  distribution, but also where a work is Deployed.
+
+## Wny create a new licence?
+
+In this day and age, where there are a plethora of freely available sites to
+distribute Free Software from, there is no good reason why the beneficiaries
+of Free Software should not be obliged to publish their changes to Free
+Software they make use of and benefit from.  Commercial, corporate
+beneficiaries particularly.
+
+The GPL did not anticipate the large "cloud" technology companies, and their
+operating model.  Where much use is made of Free Software internally, but
+where the companies concerned largely do not distribute software - and so
+the distribution obligation of the GPL never comes into play.  Some of these
+large technology companies are good about contributing back their change. 
+However, others are less so, and may even view keeping their improvements
+private a competitive advantage.
+
+Additionally, and more parasitically, there are corporations that specialise
+in abusing the Free Software made available by others.  They offer
+improvements to copyleft (inc.  GPL) licensed Free Software to customers,
+including source code.  They will claim to have to honoured their GPL
+obligations.  However, they additionally bind customers with side-contracts,
+with penalty clauses should their customer ever actually exercise their GPL
+rights to distribute the sources, e.g. by terminating support and further
+access.
+
+The Fully Open Public Licence requires those technology companies, who may
+improve the Free Software they use but never distribute, to make such
+improvements available.  Which will ultimately benefit those technology
+companies, by increasing the rate at which such Free Software can improve.
+
+The Fully Open Public Licence also explictly disallows the abuse of copyleft
+Free Software through restrictive side contracts. Such parasitic abusers
+will not benefit, by design.
+
+## So why not the Affero GPL (AGPL)?
+
+The Affero GPL is written with interactive network applications in mind,
+e.g., web applications. Its distribution obligations extend only to those
+who can actually interact with the covered software. Its unclear to me how
+this applies to non-interactive software, if at all. 
+
+It seems much simpler just to make it an unconditional requirement to
+publish the changes to software in use.
+
+## Is this a Free Software licence?
+
+To my mind, yes. It's a strong copyleft licence, made by combining two OSI
+approved licences (the CDDL and the Watcom), deriving from the Mozilla
+Public Licence (MPL). 
+
+The FSF considers the CDDL to be a Free Software licence, but do not approve
+it because of incompatibility with the GPL.  However the FSF do /not/
+consider the Sybase/Watcom licence to be Free Software, because of the
+requirement to publish the source code to Deployed modifications.
+
+https://www.gnu.org/licenses/license-list.html#Watcom
+
+## What about the Debian "Desert Island" test?
+
+The licence at present might fail the Desert Island test.  However, someone
+on a desert island is unlikely to have reason to worry about being sued for
+licence infringement.
+
+I would like to add wording to permit the public distribution requirement to
+be discharged by distributing to the widest audience physically possible, to
+fix this, in a future version.
+
+## What about the Debian "Political Dissident" test?
+
+See the above.  Pretty much the same thing.  Again, if I can find some
+wording to exempt individuals from the distribution requirement who would
+otherwise be put at clear risk to their human rights by state or corporate
+actors, then I'll add such wording.
+
+## Why base this off the CDDL?
+
+I like the GPL.  I'd have liked to start with the GPL.  
+
+However, in my limited experience, I've noticed that solicitors/lawyers
+don't seem very keen on the drafting of the GPL.  The MPL/CDDL style wording
+seems to be held in higher regard by legal professionals. It seems better
+defined, less reliant on implicit legal concepts, and more understandable to
+me than the GPLv3.
+
+Also, I prefer the CDDLs' wording on patent rights and termination in the
+event of a patent suit.  The GPLv3 is as clear as mud, at least to my
+non-legal mind, on patent rights and patent non-aggression.
+
+## Have you any legal background, are your changes sound?
+
+No I do not, and I have no idea.
+
+I would greatly prefer to have a legal professional draft these changes.  In
+lieu of that, I have tried to approach this by combining existing
+professionally drafted texts, and minimised adding my own wording.
+
+If you do have legal training and could help or have suggestions, please do
+get in touch.
+
+## Who are you?
+
+Paul Jakma, paul@jakma.org
