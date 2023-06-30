@@ -164,15 +164,16 @@ FULLY OPEN PUBLIC LICENSE Version XXX (FOPL-XXX)
         b) Inform recipients of any such Covered Software in Executable form
         as to how they can obtain such Covered Software in Source Code form
         in a reasonable manner on or through a medium customarily used for
-        software exchange.
+        software exchange. You must ensure that recipients of the Covered
+        Software can obtain the Source Code form for a period of at least
+        twenty-four (24) months after they receive the software from You.
 
         c)  Make the Source Code of all Your Deployed Modifications publicly
-        available under the terms of this License, for as long as you Deploy
-        the Covered Software or twenty-four (24) months from the date of
-        initial Deployment, whichever is longer; through a common and
-        customary form of distribution for source code (e.g.  download from
-        a web site as a 'tar' archive, or via source-control-mechanism such
-        as git or hg).
+        available under the terms of this License, from the start of deployment
+        until a period of at least twenty-four (24) months after the software is
+        removed from Deployment; through a common and customary form of
+        distribution for source code (e.g.  download from a web site as a 'tar'
+        archive, or via source-control-mechanism such as git or hg).
 
         d) Include a prominent notification notice, in the code itself as
         well as in related documentation, stating that Source Code of the
